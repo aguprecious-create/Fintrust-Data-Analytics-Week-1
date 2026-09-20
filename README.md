@@ -1,5 +1,5 @@
-# Fintrust-Data-Analytics-Week-1
-Data Analytics project for the FinTrust Financial Intelligence &amp; Digital Banking Support Solution — AnalystLab Africa Experience Lab Internship Program.
+# Fintrust Data-Analytics
+Data Analytics project for the FinTrust Financial Intelligence & Digital Banking Support Solution — AnalystLab Africa Experience Lab Internship Program.
 This repository contains my work for the FinTrust Experience Lab, a 4-week multidisciplinary project focused on developing a financial intelligence and digital banking support solution for FinTrust Digital Bank.
 Track: Data Analytics Program: AnalystLab Africa Experience Lab
 
